@@ -1,0 +1,7 @@
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.exe.config
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.exe
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.pdb
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.csprojAssemblyReference.cache
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.csproj.CoreCompileInputs.cache
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.exe
+D:\Front end\DotNetConsoleApps\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.pdb
